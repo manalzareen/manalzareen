@@ -1,65 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:2B2D42&text=MANAL%20ZAREEN&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.svg" alt="Manal Zareen — Full-Stack Developer" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2800&pause=900&color=8B9DFF&center=true&vCenter=true&width=760&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+working+systems.;Full-Stack+Developer+%7C+AI%2FML+Explorer;Learning.+Building.+Breaking.+Rebuilding." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&duration=2600&pause=900&color=8B9DFF&center=true&vCenter=true&width=850&lines=Building+interfaces+that+feel+alive.;Turning+ideas+into+working+systems.;Full-Stack+Developer+%7C+CSE+%28AI+%26+ML%29;Learning.+Building.+Breaking.+Rebuilding." alt="Animated introduction"/>
 
-<br/>
+<br/><br/>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-### `01` — WHO AM I?
+## ✦ ABOUT ME
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### Hey, I'm Manal.
+### Hi, I'm Manal.
 
 I'm a **Full-Stack Developer** and **B.Tech CSE (AI & ML)** student who enjoys turning ideas into things people can actually interact with.
 
-I've been building software across **web, mobile, AI, data and hardware**, from full-stack applications and mobile interfaces to hackathon systems and Arduino-based simulations.
+My work sits across **web development, mobile apps, AI/data, IoT concepts and real-world prototypes**.
 
-I care about more than just making something work.
+I've built projects for hackathons, experimented with intelligent systems, worked with Arduino simulations, explored data with Python, and designed interfaces where the experience matters just as much as the functionality.
 
-I like making it **useful, intuitive and genuinely good to look at.**
+> **I don't just want to make software work.  
+> I want to make it useful, understandable and memorable.**
 
 </td>
-
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ```text
 ┌─────────────────────────────┐
-│       CURRENTLY BUILDING    │
+│       CURRENT FOCUS         │
 ├─────────────────────────────┤
 │                             │
-│  ◈ Full-Stack Applications  │
-│  ◈ AI / ML Projects         │
+│  ◈ Full-Stack Development   │
+│  ◈ AI / ML                  │
+│  ◈ Data & Simulation        │
 │  ◈ Real-World Systems       │
-│  ◈ IoT & Simulations        │
 │  ◈ Creative Interfaces      │
+│                             │
+│  NEXT                       │
+│  C++ · DSA · PyTorch        │
+│  Computer Vision · ROS2     │
+│  Robotics                   │
 │                             │
 └─────────────────────────────┘
 ```
@@ -68,407 +63,357 @@ I like making it **useful, intuitive and genuinely good to look at.**
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,python,html,css,react,reactnative,numpy,pandas,arduino,git,github,vscode&perline=6" />
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
 
-### `02` — THE STACK
+## ⚡ THE TOOLKIT
+
+<sub>Technologies I actively use or have worked with</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=javascript,python,html,css,react,reactnative,numpy,pandas,arduino,git,github,vscode&perline=6" alt="Technology icons"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=1800&pause=500&color=9CA3AF&center=true&vCenter=true&width=760&lines=JAVASCRIPT+%E2%80%A2+PYTHON+%E2%80%A2+HTML+%E2%80%A2+CSS;REACT+%E2%80%A2+REACT+NATIVE+%E2%80%A2+NUMPY+%E2%80%A2+PANDAS;ARDUINO+%E2%80%A2+GIT+%E2%80%A2+GITHUB" alt="Animated technology list"/>
 
 </div>
 
-<table align="center">
+<br/>
+
+<table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### WEB
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-
-<br/><br/>
-
-`Responsive Interfaces`
-`Frontend Development`
-`Interactive UI`
+`JavaScript`  
+`React`  
+`HTML`  
+`CSS`
 
 </td>
-
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### MOBILE
 
-<img src="https://skillicons.dev/icons?i=reactnative" />
-
-<br/><br/>
-
-`Cross-Platform Apps`
-`Mobile UI`
-`Product Prototypes`
+`React Native`  
+`Mobile UI`  
+`Cross-platform`
 
 </td>
+<td width="25%" align="center">
 
-<td align="center" width="25%">
+### AI / DATA
 
-### DATA / AI
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
-
-<br/><br/>
-
-`Data Analysis`
-`ML Foundations`
-`Model Experimentation`
+`Python`  
+`NumPy`  
+`Pandas`  
+`ML foundations`
 
 </td>
-
-<td align="center" width="25%">
+<td width="25%" align="center">
 
 ### HARDWARE
 
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-<br/><br/>
-
-`Arduino`
-`IoT Concepts`
+`Arduino`  
+`IoT concepts`  
 `Simulation`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B9DFF" width="70%"/>
+## 🚀 SELECTED WORK
 
-<br/><br/>
-
-`JAVASCRIPT`   `PYTHON`   `REACT`   `REACT NATIVE`   `HTML`   `CSS`
-`NUMPY`   `PANDAS`   `ARDUINO`   `GIT`   `GITHUB`
+<sub>From prototypes to systems designed around real problems.</sub>
 
 </div>
 
-<br/>
+### 🚑 Emergency Corridor System
+
+> **Real-time emergency vehicle coordination**
+
+A 36-hour hackathon prototype designed to help vehicles become aware of an approaching ambulance and react faster.
+
+**Built with:** `JavaScript` `Node.js` `Socket.IO` `GPS` `Geolocation API`
+
+- Live ambulance location
+- Vehicle-side proximity alerts
+- Real-time communication
+- Emergency corridor visualization
+- Designed around reducing delays in emergency travel
+
+---
+
+### 🌊 Aquaculture Intelligence
+
+> **IoT + simulation + predictive monitoring**
+
+A smart aquaculture monitoring concept that models water-quality conditions and connects them to fish-health risks.
+
+**Parameters:** `Temperature` `pH` `Dissolved Oxygen` `Turbidity` `Ammonia`
+
+**Exploring:** `Digital Twin` `Anomaly Detection` `Predictive Analytics` `Closed-loop Actuation`
+
+---
+
+### 🛡️ SafeSight
+
+> **AI-assisted safety intelligence**
+
+A safety-focused system exploring how technology can turn observations into actionable corrective information instead of simply producing alerts.
+
+**Focus:** `AI` `Automation` `Safety Systems` `Human-centered Design`
+
+---
+
+### ♿ AccessAI
+
+> **Technology designed around accessibility**
+
+An accessibility-focused AI concept using voice-driven interaction to make digital environments easier to navigate.
+
+**Focus:** `AI` `Voice Interaction` `Accessibility`
+
+---
+
+### ✦ Manal Studio
+
+> **A digital identity built through code**
+
+A creative portfolio experience focused on visual storytelling, interactive frontend development and a distinctive digital identity.
+
+**Built with:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+---
+
+### 🏫 Campus Explorer
+
+> **A polished campus discovery interface**
+
+A frontend project with search, filtering and event-oriented interactions, designed to feel more like a modern product than a conventional dashboard.
+
+**Built with:** `HTML` `CSS` `JavaScript`
 
 ---
 
 <div align="center">
 
-### `03` — SELECTED WORK
-
-*Ideas → prototypes → working systems*
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 🚑 Emergency Corridor System
-
-A real-time emergency corridor prototype designed to help vehicles become aware of an approaching ambulance and react faster.
-
-**Built with**
-
-`JavaScript` `Node.js` `Socket.IO`
-`GPS` `Geolocation API` `Real-Time Events`
-
-**Highlights**
-
-* Live ambulance GPS
-* Vehicle-side alerts
-* Proximity detection
-* Real-time communication
-* Emergency corridor visualization
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌊 Aquaculture Intelligence
-
-A smart aquaculture monitoring concept combining simulated IoT data, water-quality intelligence and predictive risk monitoring.
-
-**Monitored**
-
-`Temperature` `pH` `DO`
-`Turbidity` `Ammonia`
-
-**Exploring**
-
-* Digital-twin simulation
-* Biological parameter relationships
-* Anomaly detection
-* Fish-health risk alerts
-* Closed-loop responses
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🛡️ SafeSight
-
-An intelligent safety-focused system exploring how technology can help identify risks and improve corrective actions in real-world environments.
-
-**Focus**
-
-`AI` `Safety Systems` `Automation`
-
-Designed around turning safety observations into actionable information rather than simply displaying alerts.
-
-</td>
-
-<td width="50%" valign="top">
-
-## ♿ AccessAI
-
-An accessibility-focused AI concept designed to make digital environments easier to interact with through voice-driven assistance.
-
-**Focus**
-
-`Accessibility` `AI` `Voice Interaction`
-
-Built around the idea that technology should adapt to the user—not the other way around.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## ✦ Manal Studio
-
-A personal portfolio experience designed around interactive visuals, creative frontend development and a strong digital identity.
-
-**Built with**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏫 Campus Explorer
-
-A frontend-focused campus discovery experience with search, filtering and event-oriented interactions.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-Designed with a clean, polished interface rather than a traditional dashboard aesthetic.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-### `04` — HACKATHON MODE
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2200&pause=800&color=8B9DFF&center=true&vCenter=true&width=600&lines=36+hours.+One+idea.+One+working+prototype.;Building+under+pressure.;Prototype+%E2%86%92+Demo+%E2%86%92+Iteration." />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 🚑
-
-**Emergency Systems**
-
-Real-time emergency vehicle coordination prototype
-
-</td>
-
-<td align="center">
-
-### 🌊
-
-**IoT / Aquaculture**
-
-Water-quality intelligence & simulation
-
-</td>
-
-<td align="center">
-
-### 🛡️
-
-**AI / Safety**
-
-Intelligent safety monitoring concepts
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-**Hackathons taught me something important:**
-
-> A good idea is only the beginning.
-> The real challenge is turning it into something people can see, understand and use.
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `05` — MY DEVELOPMENT JOURNEY
+## ◌ HOW I BUILD
 
 </div>
 
 ```text
-  PROGRAMMING
-       │
-       ▼
-  ┌──────────────┐
-  │ Web & Coding │
-  └──────┬───────┘
-         │
-         ▼
-  ┌────────────────┐
-  │ Full-Stack Dev │
-  └───────┬────────┘
-          │
-          ▼
-  ┌────────────────────┐
-  │ Mobile & Interfaces│
-  └─────────┬──────────┘
-            │
-            ▼
-  ┌─────────────────────┐
-  │ AI / Data / ML      │
-  └──────────┬──────────┘
-             │
-             ▼
-  ┌─────────────────────┐
-  │ Real-World Systems  │
-  │ IoT · Automation    │
-  └──────────┬──────────┘
-             │
-             ▼
-  ┌─────────────────────┐
-  │ AI + Robotics       │
-  │       ↗              │
-  └─────────────────────┘
+              ┌───────────────┐
+              │     IDEA      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   EXPLORE     │
+              │  the problem  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    DESIGN     │
+              │  the system   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     BUILD     │
+              │    the MVP    │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    TEST       │
+              │  break / fix  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │    SHIP       │
+              └───────────────┘
 ```
 
+---
+
+<div align="center">
+
+## 🏁 HACKATHON MODE
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 36H
+**Emergency Systems**
+
+Real-time emergency corridor prototype
+
+</td>
+<td align="center" width="33%">
+
+### 24H
+**Aquaculture Intelligence**
+
+IoT + simulation + intelligent monitoring
+
+</td>
+<td align="center" width="33%">
+
+### ⚡
+**NEURAX 2.0**
+
+AI-powered safety concept
+
+</td>
+</tr>
+</table>
+
 <br/>
+
+<div align="center">
+
+> **Ideas are easy to describe.  
+> Building something people can actually see is the fun part.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### `06` — CURRENTLY EXPLORING
+## 🧭 WHERE I'M HEADING
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,pytorch,opencv,ros,docker,linux&perline=6" />
+**NOW**
 
-<br/><br/>
+Full-Stack  
+AI / ML  
+Python  
+React  
+Data
 
-**C++**   •   **Data Structures & Algorithms**   •   **PyTorch**
-**Computer Vision**   •   **ROS2**   •   **Robotics**
+</td>
+<td align="center">
 
-<br/>
+→
 
-<sub>Expanding from software development into intelligent, physical systems.</sub>
+</td>
+<td align="center">
 
-</div>
+**NEXT**
 
-<br/>
+C++  
+DSA  
+PyTorch  
+Computer Vision
+
+</td>
+<td align="center">
+
+→
+
+</td>
+<td align="center">
+
+**FUTURE**
+
+ROS2  
+Robotics  
+Intelligent Systems  
+AI × Hardware
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### `07` — GITHUB ACTIVITY
+## 📊 GITHUB, BUT HONEST
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manalzareen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B9DFF&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manalzareen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B9DFF&rank_icon=github" height="175" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalzareen&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B9DFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manalzareen&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=8B9DFF" height="175" alt="Most used GitHub languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=manalzareen&theme=github-dark-blue&hide_border=true&background=0D1117" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=manalzareen&theme=dark&hide_border=true&background=0D1117&ring=8B9DFF&fire=8B9DFF&currStreakLabel=FFFFFF" width="70%" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<sub>
+GitHub's language card reflects code detected across my repositories.
+The toolkit above represents the technologies I actually work with.
+</sub>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-### `08` — WHAT I BELIEVE
+## ✦ CURRENTLY EXPLORING
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,pytorch,opencv,ros,docker,linux&perline=6" alt="Technologies being explored"/>
 
 <br/><br/>
 
-**Build things. Learn relentlessly. Make the interface worth remembering.**
-
-</div>
+`C++` · `DSA` · `PyTorch` · `Computer Vision` · `ROS2` · `Robotics`
 
 <br/>
+
+<sub>Expanding from software into intelligent, physical systems.</sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-### LET'S BUILD SOMETHING INTERESTING.
+## ◈ A LITTLE MORE HUMAN
+
+I like **building things from scratch**, experimenting with ideas,  
+working under hackathon pressure, and turning rough concepts into something demoable.
+
+I'm especially interested in the space where **software meets the real world**.
 
 <br/>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Code → Build → Break → Learn → Repeat
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+<div align="center">
+
+## LET'S BUILD SOMETHING INTERESTING.
+
+<br/>
+
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-8B9DFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2B2D42,50:161B22,100:0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:171B2B,50:111722,100:090B10" width="100%" alt="Footer"/>
 
 </div>
